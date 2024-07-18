@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 경력과 스킬&툴, 포트폴리오등의 소개가 있습니다
 
 ### 기본 정보
-1997.9월 생
-성남시 거주
-여자
-INTP
+- 1997.9월 생
+- 성남시 거주
+- 여자
+- ISFP
 
 ### 연락처
 jdy5893@gmail.com
